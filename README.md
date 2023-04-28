@@ -2,7 +2,7 @@
 
 Scraper for the [this person doesn not exist website](https://this-person-does-not-exist.com/) . Helps you automatically download batch of files from the website and sort them by gender.
 
-##Dependencies
+## Dependencies
 The following dependencies are required to operate this script:
 
 ```
